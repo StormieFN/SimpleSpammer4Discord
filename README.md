@@ -10,3 +10,5 @@ Then, in cmd as ADMIN (by quickly pressing WIN + X And select "COMMAND PROMPT (A
 
 Then run in that directory ```python spammer.py```
 
+https://thumbs.dreamstime.com/b/enjoy-motivational-watercolor-splash-banner-vector-illustration-213651669.jpg
+
