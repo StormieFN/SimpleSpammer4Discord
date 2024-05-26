@@ -10,5 +10,5 @@ Then, in cmd as ADMIN (by quickly pressing WIN + X And select "COMMAND PROMPT (A
 
 Then run in that directory ```python spammer.py```
 
-https://thumbs.dreamstime.com/b/enjoy-motivational-watercolor-splash-banner-vector-illustration-213651669.jpg
+![image](https://github.com/StormieFN/SimpleSpammer4Discord/assets/77277357/326830cc-dda5-4ff5-a7c2-75e3ff8bb18b)
 
