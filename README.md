@@ -1,4 +1,7 @@
 # SimpleSpammer4Discord
+
+**_USE RESPONSIBLY TO AVOID GETTING RATE-LIMITED BY DISCORD OR FLOODED WITH HATE FROM OTHER SERVER MEMBERS_**
+
 Simple Python program to spam a custom message with a count-controlled loop and custom cooldown for each.
 
 Install the entire bundle and extract the `.zip` to an accessible directory (Preferably DOWNLOADS or DESKTOP)
