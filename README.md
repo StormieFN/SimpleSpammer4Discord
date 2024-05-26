@@ -6,7 +6,7 @@ Run ``start.bat`` to ensure you have all the dependencies for the Python script.
 
 **Python 3.6 and above if you want to manually install Python (if you already haven't got this downloaded.**
 
-Then, in cmd, run ```cd DIRECTORY TO CONTENTS OF THE EXTRACTED APPLICATION```
+Then, in cmd as ADMIN (by quickly pressing WIN + X And select "COMMAND PROMPT (ADMIN), run ```cd [DIRECTORY TO CONTENTS OF THE EXTRACTED PROGRAM AND ASSETS]```
 
 Then run in that directory ```python spammer.py```
 
